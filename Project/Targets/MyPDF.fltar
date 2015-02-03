@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="Adobe PDF Target"
+  Type="PDF"
+  GlossaryTermConversion="marked"
+  PatchHeadingLevels="false"
+  InjectBookHeadings="false"
+  ConditionTagExpression="exclude[&quot;Default.Not Ready For Publication&quot;] ">
+  <DocumentProperties
+    Author=""
+    Title="User Guide" />
+  <PDF
+    ShowUsedBookmarks="false" />
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

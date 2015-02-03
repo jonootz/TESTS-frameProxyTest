@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="1"
+	Comment="MadCap HTML5 Target"
+	Type="WebHelp2"
+	Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[&quot;Default.Not Ready For Publication&quot; or Default.PrintOnly] ">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

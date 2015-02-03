@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="toc"
+    Link="/Content/toc.htm" />
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/Introduction.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="How To Use This Template"
+    Link="/Content/How To Use This Template/How To Use Template.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl"></TocEntry>
+  <TocEntry
+    Title="Sample Policies"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="General IT Policies"
+      Link="/Content/Sample Policies/General IT Policies.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl" />
+    <TocEntry
+      Title="Email Policy"
+      Link="/Content/Sample Policies/Email Policy.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl" />
+    <TocEntry
+      Title="Reporting Misconduct"
+      Link="/Content/Sample Policies/Reporting Misconduct.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl" />
+  </TocEntry>
+  <TocEntry
+    Title="gloss"
+    Link="/Content/gloss.htm" />
+  <TocEntry
+    Title="index"
+    Link="/Content/index.htm" />
+</CatapultToc>

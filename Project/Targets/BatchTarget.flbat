@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Name="MyDotNetHelp"
+      Type="DotNetHelp" />
+    <Target
+      Name="MyHTMLHelp"
+      Type="HtmlHelp" />
+    <Target
+      Name="MyPDF"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Name="MyWebHelp"
+      Type="WebHelp"
+      Build="true" />
+  </Targets>
+</CatapultBatchTarget>

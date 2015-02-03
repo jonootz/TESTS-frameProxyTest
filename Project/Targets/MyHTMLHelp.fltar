@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="HtmlHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[&quot;Default.Not Ready For Publication&quot; or Default.PrintOnly] ">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>
